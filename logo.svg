@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-labelledby="t">
+  <title id="t">Manchester Signal</title>
+  <rect x="4" y="38" width="8" height="18" rx="1" fill="#8C3B2E"/>
+  <rect x="16" y="28" width="8" height="28" rx="1" fill="#8C3B2E"/>
+  <rect x="28" y="18" width="8" height="38" rx="1" fill="#1F6F6B"/>
+  <rect x="40" y="8" width="8" height="48" rx="1" fill="#2F3B45"/>
+  <text x="60" y="44" font-family="Archivo, 'Source Sans 3', Arial, Helvetica, sans-serif" font-size="30"><tspan font-weight="700" fill="#2F3B45">Manchester</tspan><tspan dx="8" font-weight="400" fill="#1F6F6B">Signal</tspan></text>
+</svg>
