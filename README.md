@@ -1,6 +1,6 @@
 # Manchester Signal website
 
-Static site for manchestersignal.co.uk. Published by Terradeed Ltd, trading as TerraDeed Labs.
+Static site for manchestersignal.co.uk. Published by Terradeed Ltd, trading as Terradeed Labs.
 No build step, no external scripts, fonts or trackers. Hosted on GitHub Pages from this public repo.
 
 ## Files
